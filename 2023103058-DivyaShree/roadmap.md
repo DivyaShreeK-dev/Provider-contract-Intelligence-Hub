@@ -1,0 +1,11 @@
+# Roadmap
+- [x] App frame, sign-in with role picker, Switch User, search, notifications
+- [x] Dashboard (KPIs, charts, activity, tasks)
+- [x] Contracts Overview
+- [x] Contract Viewer (3 panes, clause edit/move/delete, rate schedule, signature, assistant)
+- [x] Digitize Legacy queue, upload, OCR simulation, reader
+- [x] NewGen Contract Creation (4 modes, existing-contract 3-step flow, save & My Contracts)
+- [x] Pipeline (Delegated / Non-Delegated, stage filters, Signature jump)
+- [x] Compliance Hub (Redlining switcher, other tabs)
+- [x] Obligation Tracker, Renewals
+- [x] Standard Clauses, Contract Review, Rates, Credentialing, Downstream Feed, User Management
